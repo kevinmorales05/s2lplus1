@@ -1432,6 +1432,15 @@ ul.timeline > li:before {
 .btnW{
   color: white !important;
 }
+.card-body {
+  height: 250px;
+}
+.promocion {
+  background-color: #fd7e14;
+  margin: 0 auto;
+  padding: 10px;
+  
+}
 
 
 @media (min-width: 992px) {
