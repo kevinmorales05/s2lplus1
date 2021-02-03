@@ -644,9 +644,13 @@
             <div class="col-md-7">
                      <div class="form"> 
 		  
-		   <!-- Form itself -->
-				  <form name="sentMessage" class="well" id="contactForm"  novalidate data-aos="fade-up" data-aos-easing="linear" data-aos-delay="200"> 
-				 <div class="control-group">
+       <!-- Form itself -->
+       
+       <!--debo editar action, method y enctype 2021/02/03-->
+      
+				  <form  action="mailto:kmorales201314@gmail.com" method="POST"  enctype="text/plain" name="sentMessage" class="well" id="contactForm"  novalidate data-aos="fade-up" data-aos-easing="linear" data-aos-delay="200"> 
+        <!--debo darle poder al sistema con php-->
+            <div class="control-group">
 						   <div class="form-group mb-4">
 					<input type="text" class="form-control form-control-lg" 
 						   placeholder="Nombre Completo" id="name" required
