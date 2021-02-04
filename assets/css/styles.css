@@ -16,11 +16,11 @@ h1, h2{
 }
  
 .navbar-dark .navbar-brand {
-    color: #303030 !important;
+    color: #3D4543 !important;
     font-family: 'Coda Caption', sans-serif;
 }
 .navbar-dark .navbar-brand span{
-    color: #f1ad50 !important; 
+    color: #F18A00 !important; 
 }
 .bg-primary{
 	color:#fff !important;
@@ -28,8 +28,8 @@ h1, h2{
 }
 .btn-primary{
 	color: #242121 !important;
-	border-color: #f1ad50 !important;
-	background: #f1ad50;
+	border-color: #F18A00 !important;
+	background: #F18A00;
 }
 .text-primary{
 	color:#e68b0de8 !important
@@ -77,7 +77,7 @@ header{
     left: 0;
 }
 .text-primary{
-	color: #f1ad50 !important;
+	color: #F18A00 !important;
 }
 .hero-img {
     background-repeat: no-repeat;
@@ -126,14 +126,14 @@ header{
     border-radius: 0;
     overflow: hidden;
     width: 52px;
-    background:#f1ad50;
+    background:#F18A00;
     padding: 0;
     margin: 0 2px;
     border: 0 solid #333;
 }
   .carousel-caption h2{
 	  font-size:40px;
-	  color: #f1ad50;
+	  color: #F18A00;
 	 }
    .carousel-caption p{
 	  font-size:22px;
@@ -146,20 +146,20 @@ header{
 		right: 0;
   }
   .btn-outline-primary {
-    color: #f1ad50;
-    border-color: #f1ad50;
+    color: #F18A00;
+    border-color: #F18A00;
 }
 .btn-outline-primary:hover {
     color: #333;
-    background-color: #f1ad50;
-    border-color: #f1ad50;
+    background-color: #F18A00;
+    border-color: #F18A00;
 }
 .card-body { 
     background: #3b3b3b !important;
 }
 .card-body h5{
 	font-size:15px;
-	color: #f1ad50;
+	color: #F18A00;
 }
 .card{
 	    border: 3px solid rgba(0, 0, 0, 0.6);
@@ -175,10 +175,10 @@ header{
 }
 .navbar-dark .navbar-toggler {
     color: #3c3c3c;
-    border-color: #f1ad50;
+    border-color:#F18A00;
 }
 .wt-blockquote-v2::before { 
-    color: #f1ad50; 
+    color: #F18A00; 
 }
 .navbar-collapse { 
     padding: 25px 0;
@@ -187,7 +187,7 @@ header{
 @media only screen and (max-width: 600px) {
 .carousel-caption h2 {
     font-size: 19px;
-    color: #f1ad50;
+    color: #F18A00;
 }
 .carousel-caption p {
     font-size: 14px; 
